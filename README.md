@@ -1,7 +1,7 @@
 # ScreenRecorderApi
 An API that receives data in chunks(Blob) from frontend and transcribes with deepgrams speech to text SDK
-On uploading a .webm file, a video.wbm file is generated in the videos directory, then the path to the directory is fed to the deepgram API for translation 
-Yet to serve the webm file to the frontend because of the recent deadline..but that's not an issue really :grinning:
+On uploading a .webm file, a video.wbm file is generated in the videos directory, then the path to the directory is fed to the deepgram API for translation.
+I am yet to serve the webm file to the frontend because of the recent deadline..but that's not an issue really :grinning:
 ## Endpoints
 
 ### Stop Recording
