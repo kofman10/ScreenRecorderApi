@@ -25,3 +25,5 @@ I am yet to serve the webm file to the frontend because of the recent deadline..
    the sounds of the machine.\n\n00:00:46.735 --> 00:00:48.114\nListen to your breathing.\n\n00:01:55.512 --> 00:01:57.612\nWell, don't you ever get tired of this?\n"
   }
 ![Screenshot (74)](https://github.com/kofman10/ScreenRecorderApi/assets/64756234/7b492ffe-a041-4769-ac83-ada39c7dfe0e)
+Video transcribed -
+[elephants-dream.webm](https://github.com/kofman10/ScreenRecorderApi/assets/64756234/e7602637-fc6b-4528-86f0-147a03c32239)
